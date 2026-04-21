@@ -11,3 +11,4 @@ This project implements a bit-rotating logic using an **ARM Cortex-M0** microcon
 ### Files:
 * `main.c`: The C source code for the microcontroller.
 * `Embedded_Task2_Ghena.pdsprj`: The Proteus simulation circuit.
+![Circuit Diagram](circuit.png)
